@@ -2,3 +2,5 @@ git init . -> cria um repo git
 coisa alguma linha 2
 coisa alguma linha 3
 coisa alguma linha 4
+
+depois do commit
