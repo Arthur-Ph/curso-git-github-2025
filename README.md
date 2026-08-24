@@ -2,13 +2,13 @@
 
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
-Link do Curso: \[Aqui](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL\&si=4TqUg3Zj0\_EYqnp\_)
+Link do Curso: [Aqui](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL\&si=4TqUg3Zj0\_EYqnp\_)
 
 
 
 ## Fluxo de trabalho Git local
 
-1. git checkout -b
+1\. git checkout -b
 
 2\. cria ou atualiza arquivos
 
@@ -30,7 +30,7 @@ Link do Curso: \[Aqui](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLN
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
-1. git clone
+1\. git clone
 
 2\. git checkout -b <nova\_branch>
 
