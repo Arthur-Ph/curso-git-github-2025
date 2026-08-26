@@ -4,7 +4,7 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Link do Curso: [Aqui](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL\&si=4TqUg3Zj0\_EYqnp\_)
 
-
+Valeu pelo curso, Téo :)
 
 ## Fluxo de trabalho Git local
 
@@ -25,8 +25,6 @@ Link do Curso: [Aqui](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNx
 7\. git merge nova\_branch
 
 8\. git merge nova\_branch
-
-
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
@@ -53,8 +51,6 @@ Link do Curso: [Aqui](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNx
 11\. git checkout main
 
 12\. git branch -D <nova\_branch>
-
-
 
 ## Fluxo de trabalho GitHub <> Local (projetos open-source)
 
